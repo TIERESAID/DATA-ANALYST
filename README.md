@@ -45,7 +45,9 @@
 <tr>
 
 <td> <b>7</b></td>
-<td><a href="https://www.kaggle.com/code/baruch100/market-study-in-moscow" target="_blank"><b>The market of Foodservice establishments in Moscow</b></a></td>
+<td><a href="https://www.kaggle.com/code/baruch100/market-study-in-moscow" target="_blank"> >br>
+  <a href="https://disk.yandex.com/i/sKlowOFIlfHQ1w" target="_blank">
+  <b>The market of Foodservice establishments in Moscow</b></a></td>
 <td>We have decided to open a small café in Moscow. It is original: the guests are to be served by robots. The project is promising, but expensive. Together along with our partners, we have decided to approach investors. They are interested in the current state of affairs on the market - will you be able to gain popularity for a long time, when all the gawkers are looking at the robot waiters? You are an analytics guru, and the partners ask you to prepare a market study. You have open data on catering establishments in Moscow.
 <td>pandas, numpy, matplotlib, seaborn, geopandas, geocoding, openstreetmap, folium</td>
 <tr>
