@@ -36,7 +36,7 @@
 <td> <b>5</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/marketing-cohort-analysis" target="_blank"><b>Marketing : Cohort Analysis</b></td>
 <td>We have been invited to an internship in the marketing analytics department of Yandex.Afisha. First task: help marketers reduce costs - abandon unprofitable traffic sources and reallocate the budget.</td>
-<td>pandas, numpy, matplotlib, scipy, seaborn<b>mplcursors</b></td>
+<td>pandas, numpy, matplotlib, scipy, seaborn</td>
 <tr>
 
 <td> <b>6</b></td>
