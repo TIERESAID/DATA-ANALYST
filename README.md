@@ -4,8 +4,11 @@
 <a href="https://www.kaggle.com/code/baruch100/market-study-in-moscow" target="_blank"><b>Market of Foodservice establishments in Moscow Analysis</b></a> <br>
 <a href="https://disk.yandex.com/i/sKlowOFIlfHQ1w" target="_blank"> <b> Link to report </b></a>
 
+<br/>
+Comming Soon ....
+
 <br/><br/><br/>
-Описание всех проектов:
+Projects Description:
 
 <table>
 <tr>
