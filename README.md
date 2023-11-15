@@ -18,25 +18,25 @@ Projects Description:
 <td><b>library</b></td>
 <tr>
 
-<td><b>2</b></td>
+<td><b>1</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/borrower-reliability-study" target="_blank"><b>Borrower Reliability Study</b></a></td>
 <td>The customer is the credit department of the bank. It is necessary to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time. Input data from the bank - statistics on the solvency of customers. The results of the study will be taken into account when building a credit scoring model a special system that assesses the ability of a potential borrower to return a loan to a bank.</td>
 <td>pandas, pymystem3, ntlk</b></td>
 <tr>
 
-<td> <b>3</b></td>
+<td> <b>2</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/real-estate#Analysis" target="_blank"><b>Real Estate Analysis near St Petersbourg </b></a></td>
 <td>An archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. You need to learn how to determine the market value of real estate. </td>
 <td> pandas, numpy, matplotlib, seaborn, requests</b></td>
 <tr>
 
-<td> <b>4</b></td>
+<td> <b>3</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/tarrifs-analysis" target="_blank"><b>Tarrifs Analysis</b></a>
 <td>You are an analyst at Megaline, a federal mobile operator .Clients are offered two tariff plans: Smart and Ultra . To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money. You have to make a preliminary analysis of tariffs on a small sample of customers. At your disposal are the data of 500 Megaline users: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018. It is necessary to analyze the behavior of customers and draw a conclusion - which tariff is better.</td>
 <td>pandas, numpy, matplotlib, scipy, requests seaborn</td>
 <tr>
 
-<td> <b>5</b></td>
+<td> <b>4</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/marketing-cohort-analysis" target="_blank"><b>Marketing : Cohort Analysis</b></td>
 <td>We have been invited to an internship in the marketing analytics department of Yandex.Afisha. First task: help marketers reduce costs - abandon unprofitable traffic sources and reallocate the budget.</td>
 <td>pandas, numpy, matplotlib, scipy, seaborn</td>
@@ -48,7 +48,7 @@ Projects Description:
 <td>pandas, numpy, matplotlib, scipy</td>
 <tr>
 
-<td> <b>7</b></td>
+<td> <b>6</b></td>
 <td>
   <a href="https://www.kaggle.com/code/baruch100/market-study-in-moscow" target="_blank">
   <b>The market of Foodservice establishments in Moscow</b></a></td>
@@ -56,7 +56,7 @@ Projects Description:
 <td>pandas, numpy, matplotlib, seaborn, geopandas, geocoding, openstreetmap, folium</td>
 <tr>
 
-<td> <b>8</b></td>
+<td> <b>7</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/scrapping-https-www-labirint-ru" target="_blank"><b>Scrapping Oline Store </b></a></td>
 <td><a href="https://www.labirint.ru" target="_blank"><b></td>
 <td>BeautifulSoup, requests, asyncio, aiohttp</td>
