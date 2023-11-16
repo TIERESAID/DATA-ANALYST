@@ -42,7 +42,7 @@ Projects Description:
 <td>pandas, numpy, matplotlib, scipy, seaborn</td>
 <tr>
 
-<td> <b>6</b></td>
+<td> <b>5</b></td>
 <td><a href="https://www.kaggle.com/code/baruch100/a-b-test" target="_blank"><b>Online store A/B test</b></a></td>
 <td>You are an analyst at a large online store. Together with the marketing department, you have prepared a list of hypotheses to increase revenue. Prioritize the hypotheses, run an A/B test and analyze the results.</td>
 <td>pandas, numpy, matplotlib, scipy</td>
