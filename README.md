@@ -61,4 +61,11 @@ Projects Description:
 <td><a href="https://www.labirint.ru" target="_blank"><b></td>
 <td>BeautifulSoup, requests, asyncio, aiohttp</td>
 <tr>
+
+<td> <b>8</b></td>
+<td><a href="https://www.kaggle.com/code/baruch100/scrapping-https-www-labirint-ru" target="_blank"><b>Customer churn</b></a></td>
+<td>Clients began to leave Beta Bank. Every month. A little, but noticeable. Bank marketers have calculated that it is cheaper to retain current customers than to attract new ones.
+It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on customer behavior and termination of contracts with the bank.<b></td>
+<td>DecisionTreeClassifier, accuracy_score, LogisticRegression, f1_score, precision_recall_curve, roc_curve, auc</td>
+<tr>
 </table>
