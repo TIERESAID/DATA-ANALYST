@@ -67,5 +67,6 @@ Projects Description:
 <td>Clients began to leave Beta Bank. Every month. A little, but noticeable. Bank marketers have calculated that it is cheaper to retain current customers than to attract new ones.
 It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on customer behavior and termination of contracts with the bank.<b></td>
 <td>DecisionTreeClassifier, accuracy_score, LogisticRegression, f1_score, precision_recall_curve, roc_curve, auc, Imbalanced Data, Upsampling , Downsampling</td>
+
 <tr>
 </table>
